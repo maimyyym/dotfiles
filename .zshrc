@@ -1,0 +1,1 @@
+/Users/maimy/.zshrc

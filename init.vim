@@ -1,0 +1,1 @@
+/Users/maimy/.config/nvim/init.vim
